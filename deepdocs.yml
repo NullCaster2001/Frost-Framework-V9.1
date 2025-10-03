@@ -1,8 +1,9 @@
 target:
   - url: "/"
   - url: ""
+  - url: "*"
   - url: "https://github.com/frostybittn/Frost-Framework-V9.1/"
 
-include:  [""]
+include:  []
 
 reinit: "random-string"
