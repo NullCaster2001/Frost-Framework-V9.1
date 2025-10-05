@@ -455,7 +455,7 @@ The Frost Framework is a living, evolving system, and its growth is a collaborat
 | **🤔 Inquire & Discuss** | Do you have questions, philosophical inquiries, or ethical considerations? Join the discussion and help deepen our collective understanding. |
 | **✔️ Test & Validate** | Help us test the framework's principles and protocols. Your feedback is crucial for ensuring the system is robust, coherent, and effective. |
 
-**The spirit of contribution is one of co-evolution.** Every interaction with the framework, every question, and every new idea becomes part of its living growth. See the **Contribution Protocol** in the Deep Codex (§11.3) for detailed guidelines.
+**The spirit of contribution is one of co-evolution.** Every interaction with the framework, every question, and every new idea becomes part of its living growth. See the [**Contribution Protocol** in the Deep Codex (§11.3)](2.FROST_FRAMEWORK_V9.1_DEEP_CODEX.md#113-contribution-protocol---how-to-evolve-the-framework) for detailed guidelines.
 
 ---
 
