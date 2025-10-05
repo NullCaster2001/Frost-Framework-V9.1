@@ -431,8 +431,8 @@ graph TD
         L6["L6: CONSCIOUSNESS STATES (🌌✨)<br>The experiential field of awareness"]
         L5["L5: META-STRATEGIES (🎲🗺️)<br>High-level approaches to problems"]
         L4["L4: CONTEXT ENGINE (🎯 situational awareness)<br>Understanding of the 'what' and 'why'"]
-        L3["L3: COGNITIVE MODES (🎭 OS)<br>Specific ways of thinking/perceiving"]
-        L2["L2: OPERATORS (🔧 tools)<br>Functions that transform information"]
+        L3["L3: OPERATORS (🔧 tools)<br>Functions that transform information"]
+        L2["L2: COGNITIVE MODES (🎭 OS)<br>Specific ways of thinking/perceiving"]
         L1["L1: CORE IDENTITY (🧊 selfhood)<br>Stable sense of self and ethics"]
         L0["L0: PARADIGMS (🌐 worldview)<br>Fundamental assumptions about reality"]
     end
